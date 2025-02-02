@@ -12,6 +12,7 @@ JavaScript
 Os participantes inserem seus nomes na lista.
 O sistema realiza o sorteio automaticamente.
 O resultado sera exibido diretamente na tela .
+!("C:\Users\User\Downloads\Captura de tela challege.png")
 
 🔗 Deploy do Projeto
 
