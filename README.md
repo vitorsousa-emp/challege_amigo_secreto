@@ -12,8 +12,7 @@ JavaScript
 Os participantes inserem seus nomes na lista.
 O sistema realiza o sorteio automaticamente.
 O resultado sera exibido diretamente na tela .
-![tela coma lista de nomes](img/telaComALista.png)
-![tela com a resposta da lista](img/telaComAResposta.png)
+
 
 
 🔗 Deploy do Projeto
@@ -23,3 +22,5 @@ O projeto está disponível online, e você pode acessá-lo pelo link abaixo:
 
 Este projeto é de código aberto e pode ser utilizado livremente. Se fizer melhorias, contribuições são bem-vindas! 😊
 
+![tela coma lista de nomes](img/telaComALista.png)
+![tela com a resposta da lista](img/telaComAResposta.png)
